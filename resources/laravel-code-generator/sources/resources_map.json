@@ -1,0 +1,67 @@
+[
+    {
+        "model-name": "categorys",
+        "resource-file": "categorys.json",
+        "table-name": "categorys"
+    },
+    {
+        "model-name": "barangs",
+        "resource-file": "barangs.json",
+        "table-name": "barangs"
+    },
+    {
+        "model-name": "bbms",
+        "resource-file": "bbms.json",
+        "table-name": "bbms"
+    },
+    {
+        "model-name": "detail_services",
+        "resource-file": "detail_services.json",
+        "table-name": "detail_services"
+    },
+    {
+        "model-name": "item_services",
+        "resource-file": "item_services.json",
+        "table-name": "item_services"
+    },
+    {
+        "model-name": "kendaraans",
+        "resource-file": "kendaraans.json",
+        "table-name": "kendaraans"
+    },
+    {
+        "model-name": "konsumsi_bbms",
+        "resource-file": "konsumsi_bbms.json",
+        "table-name": "konsumsi_bbms"
+    },
+    {
+        "model-name": "pesanans",
+        "resource-file": "pesanans.json",
+        "table-name": "pesanans"
+    },
+    {
+        "model-name": "satuans",
+        "resource-file": "satuans.json",
+        "table-name": "satuans"
+    },
+    {
+        "model-name": "servicess",
+        "resource-file": "servicesses.json",
+        "table-name": "servicesses"
+    },
+    {
+        "model-name": "services",
+        "resource-file": "services.json",
+        "table-name": "services"
+    },
+    {
+        "model-name": "stokopnames",
+        "resource-file": "stokopnames.json",
+        "table-name": "stokopnames"
+    },
+    {
+        "model-name": "detail_pesanans",
+        "resource-file": "detail_pesanans.json",
+        "table-name": "detail_pesanans"
+    }
+]
