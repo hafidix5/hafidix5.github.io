@@ -9,7 +9,7 @@
 </div>
 
 <div class="form-group {{ $errors->has('hargaperliter') ? 'has-error' : '' }}">
-    <label for="hargaperliter" class="col-md-2 control-label">Harga per liter</label>
+    <label for="hargaperliter" class="col-md-2 control-label">Harga per liternya</label>
     <div class="col-md-10">
         <input class="form-control" name="hargaperliter" type="text" id="hargaperliter"
             value="{{ old('hargaperliter', optional($bbms)->hargaperliter) }}" minlength="1" maxlength="8"
